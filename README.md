@@ -1,5 +1,4 @@
 # DAA-cia
-I couldn't implement backtracking because of the time constraint. I implemened the code using recursion and
- generated two strings randomly. 
+I implemented the code using recursion and generated two strings randomly. Backtracking is done too.
 Time conplexity - 0(n2)
 
