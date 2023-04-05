@@ -1,4 +1,11 @@
-# DAA-cia
+# DAA-cia-1
 I implemented the code using recursion and generated two strings randomly. Backtracking is done too.
 Time conplexity - 0(n2)
+
+
+#DAA-cia-2
+Implementation of the three algorithms were done.
+Ant colony Optimization with an accuracy - 0.92
+PArticle Swarm Optimization with an accuracy - 0.95
+Genatic Algorithm with an accuracy-0.90
 
